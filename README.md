@@ -1,2 +1,3 @@
+##Hey👋
 # IRIS-FLOWER-CLASSIFICATION
-Machine Learning Mini Project
+This is a mini project using Machine Learning.
